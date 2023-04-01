@@ -30,12 +30,12 @@ public class Main {
             System.out.println("\u001b[1mTítulo:\u001b[m " + filme.get("title"));
             System.out.println("\u001b[1mURL da imagem:\u001b[m " + filme.get("image"));
             double classificacao = Double.parseDouble(filme.get("imDbRating"));
-            int estrelinhas = (int) classificacao;
+            int estrelas = (int) classificacao;
             System.out.println("\u001b[1mAvaliação:\u001b[m " + filme.get("imDbRating"));
 
 
 
-            for (int n=1; n <= estrelinhas; n++){
+            for (int n=1; n <= estrelas; n++){
 
                 System.out.print("⭐");
             }
