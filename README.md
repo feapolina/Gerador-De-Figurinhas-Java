@@ -1,7 +1,7 @@
 # Gerador de figurinhas feito em Java.
 
 ## Recursos Principais
-- O Projeto em questão faz o consumo de uma API do IMDB, para transformar posters de filmes/séries em figurinhas personalizáveis.
+- O Projeto em questão faz o consumo de uma API do IMDB, para transformar posters de filmes/séries em figurinhas personalizáveis. Aula ministrada no curso de Imersão Java da Alura.
 
 ## Executar Localmente
 
