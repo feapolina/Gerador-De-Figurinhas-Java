@@ -8,7 +8,7 @@
 Clone o projeto
 
 ```bash
-  git clone https://github.com/feapolina/QrCodeGenerator/
+  git clone https://github.com/feapolina/ImersaoJava01.git
 ```
 
 Vá para o diretorio do projeto
